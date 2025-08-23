@@ -32,7 +32,7 @@
 		"webext-domain-permission-toggle": "0.0.2",
 		"webext-dynamic-content-scripts": "^5.0.1",
 		"webext-options-sync": "^0.15.1",
-		"webextension-polyfill": "^0.3.1"
+		"webextension-polyfill": "^0.10.0"
 	},
 	"devDependencies": {
 		"@sindresorhus/tsconfig": "^0.2.0",
